@@ -16,14 +16,6 @@ public class Remember{
 	 
 	 * */
 
-	/* We were debating wether or not we must print adviceLine twice 
-	   or if that was a mistake.
-	 
-	 * We ultimately decided to print it. 
-
-	 * However we made it easy to alter what is printed and how many times. 
-	 
-	 * */
 	
 	public static String adviceLine = "Use \"\\\\\" to obtain a 'backslash' character."; 
 
@@ -47,8 +39,7 @@ public class Remember{
 	}
 
 		/* Here we use a loop commonly reffered to as a "foreach loop". 
-		 * While it gives us less control, its cleaner and makes it harder 
-		 * to accidentally try printing too few or too many elements of the array. 
+		 * While it gives us less control, its cleaner and makes it harder to accidentally try printing too few or too many elements of the array. 
 		 */
 
 
